@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': 'http://localhost:3000'
+      '/api': 'https://food-delivery-2yg5.onrender.com'
     }
   }
 })
