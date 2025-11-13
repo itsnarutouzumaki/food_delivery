@@ -1,0 +1,2 @@
+/api/*  https://food-delivery-rosy-seven.vercel.app//api/:splat  200
+/*      /index.html  200
